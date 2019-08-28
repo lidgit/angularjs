@@ -1,4 +1,4 @@
-escribe('angularjs homepage', function() {
+describe('angularjs homepage', function() {
   it('should greet the named user', function() {
 //browser.waitForAngularEnabled(false);
  browser.get('http://www.angularjs.org');
