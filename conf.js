@@ -1,5 +1,5 @@
 // An example configuration file.
-xports.config = {
+xports.config1 = {
   directConnect: true,
   // Capabilities to be passed to the webdriver instance.
   capabilities: {
